@@ -10,9 +10,9 @@ pandas
 users
 config.py
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2
 MarkupSafe==1.0
 passlib==1.7.1
-SQLAlchemy==1.1.11
+SQLAlchemy
 Werkzeug==0.12.2
 click==6.7
